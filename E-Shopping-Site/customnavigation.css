@@ -1,0 +1,14 @@
+.jumbotron{
+    font-size: 20px;
+}
+h1{
+    color: rgba(255, 91, 71, 0.7);
+    font-family: 'Nosifer', cursive;
+    font-size: 50px;
+    font-style: oblique;
+}
+.navbar-text{
+    /*color: rgba(255, 91, 71, 0.7);*/
+    font-family: 'Nosifer', cursive;
+    font-style: oblique;
+}
